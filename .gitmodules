@@ -1,0 +1,12 @@
+[submodule "submodules/OpenBeam_Kossel_Reprap"]
+	path = submodules/OpenBeam_Kossel_Reprap
+	url = https://github.com/eddieparker/OpenBeam_Kossel_Reprap.git
+[submodule "submodules/Marlin"]
+	path = submodules/Marlin
+	url = https://github.com/eddieparker/Marlin.git
+[submodule "submodules/bottery_kossel_mini"]
+	path = submodules/bottery_kossel_mini
+	url = https://github.com/philetus/bottery_kossel_mini.git
+[submodule "submodules/metrix_kossel_config"]
+	path = submodules/metrix_kossel_config
+	url = https://github.com/philetus/metrix_kossel_config.git
