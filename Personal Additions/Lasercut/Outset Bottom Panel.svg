@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2160"
+   height="1620"
+   id="svg3063"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Outset Bottom Panel.svg">
+  <defs
+     id="defs3065" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1239.3874"
+     inkscape:cy="759.24919"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     showborder="false"
+     inkscape:showpageshadow="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3068">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,567.64025)">
+    <g
+       id="g4230"
+       transform="translate(-70.174483,-61.401703)"
+       style="fill:#3b4d4f;fill-opacity:1">
+      <g
+         id="g4215"
+         style="fill:#3b4d4f;fill-opacity:1">
+        <g
+           id="g4183"
+           transform="translate(-70.819524,-3.2957995e-4)"
+           style="fill:#3b4d4f;fill-opacity:1">
+          <g
+             transform="translate(307.26939,62.00023)"
+             id="g4177"
+             style="fill:#3b4d4f;fill-opacity:1">
+            <g
+               id="g4173"
+               transform="translate(-201.59319,-62)"
+               style="fill:#3b4d4f;fill-opacity:1" />
+          </g>
+          <g
+             id="g4169"
+             style="fill:#3b4d4f;fill-opacity:1">
+            <path
+               id="path4099-6-4"
+               style="fill:#3b4d4f;fill-opacity:1;stroke:#000000;stroke-width:0.46056536px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 1488.3043,1113.3022 70.6361,-122.34536 m -0.4612,-0.92174 -636.83907,-1103.03762 m -142.19393,-0.46117 141.27219,0 M 141.22429,990.95677 211.8604,1113.3021 m -70.17494,-123.26707 636.839,-1103.03755 m -565.26744,1225.15902 0,1.375 1273.65628,0 0,-1.375 -1273.65628,0 z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
