@@ -14,7 +14,7 @@
    id="svg3063"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="Inset Bottom Panel.svg">
   <defs
      id="defs3065" />
   <sodipodi:namedview
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="354.90987"
-     inkscape:cy="523.68249"
+     inkscape:zoom="0.5"
+     inkscape:cx="-827.38289"
+     inkscape:cy="1481.5698"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     showborder="false"
+     showborder="true"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1537"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,27 +55,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,567.64025)">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.98150736px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -261.75953,1416.3408 105.81755,183.2813"
-       id="path3117-0-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <g
-       id="g3286">
+       id="g3286"
+       style="fill:none;fill-opacity:1">
       <g
-         id="g3278">
+         id="g3278"
+         style="fill:none;fill-opacity:1">
         <g
-           id="g3272">
+           id="g3272"
+           style="fill:none;fill-opacity:1">
           <g
-             id="g3268" />
+             id="g3268"
+             style="fill:none;fill-opacity:1" />
         </g>
       </g>
     </g>
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fe0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1px;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="M 481.90625,25.578 0.5,859.3905 l 0.28125,0.1562 -0.125,0.0626 107.28125,192.0625 0.125,-0.062 0,0.25 973.4062,0 0.031,0 105.8125,-183.2814 -486.71875,-843 -218.6875,0 z m 0.5625,1 217.53125,0 486.1563,842 -105.25,182.2814 -972.2813,0 L 1.65625,859.3905 482.46875,26.578 z"
-       id="path3298"
-       inkscape:connector-curvature="0" />
+       id="path4423"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:none;stroke:#000000;stroke-width:0.08858268;stroke-miterlimit:4;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 0.125,266.34375 107.4375,192.28125 973.4842,0.0937 105.828,-183.28125 -486.71875,-843 -218.68735,2e-5 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
