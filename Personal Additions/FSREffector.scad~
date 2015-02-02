@@ -1,0 +1,12 @@
+$fn=200;
+
+module StockEffector()
+{
+	translate([-39.785,-35,9])
+	rotate([-90,0,0])
+	import("C:/Users/Eddie/Sync/Personal/Projects/Git/KosselPro/submodules/OpenBeam_Kossel_Reprap/OBMKR-0010 - Kossel End Effector, J-Head.STL");
+}
+
+StockEffector();
+
+cylinder(r=1,h=20);

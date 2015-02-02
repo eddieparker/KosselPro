@@ -10,3 +10,6 @@
 [submodule "submodules/metrix_kossel_config"]
 	path = submodules/metrix_kossel_config
 	url = https://github.com/philetus/metrix_kossel_config.git
+[submodule "submodules/kossel"]
+	path = submodules/kossel
+	url = https://github.com/jcrocholl/kossel.git

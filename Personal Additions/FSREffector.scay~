@@ -1,0 +1,55 @@
+$fn=200;
+
+include <MCAD/nuts_and_bolts.scad>
+
+// Roughly centered
+module StockEffector()
+{
+	translate([-39.7528,-35.5,9])
+	rotate([-90,0,0])
+	//import("C:/Users/Eddie/Sync/Personal/Projects/Git/KosselPro/submodules/OpenBeam_Kossel_Reprap/OBMKR-0010 - Kossel End Effector, J-Head.STL");
+	import("../submodules/OpenBeam_Kossel_Reprap/OBMKR-0010 - Kossel End Effector, J-Head.STL");
+}
+
+module ParametricEffector(effectorRadius=40, effectorHeight=10, metricScrewSize=3)
+{
+	difference()
+	{
+		// The base radius of the effector
+		cylinder(r=effectorRadius,h=effectorHeight);
+
+		for(i = [0 : 2])
+		{
+			// The effective circles that the 'joints' are spaced out by.
+				// TODO: Parameterize the arm width, to decide where the circle goes
+				rotate([0,0,90+120*(i)])
+				translate([effectorRadius*PI/2,0,0])
+				cylinder(r=effectorRadius, h=effectorHeight);
+
+			// The inner rectangle that you put the nuts in.
+				rotate([0,0,30+120*i])
+				translate([effectorRadius,0,effectorHeight/2])
+				# cube([METRIC_NUT_AC_WIDTHS[metricScrewSize]*2,10,effectorHeight], center=true);
+		}
+
+		// Build location for carbon fibre tubes to attach
+		for(i = [0: 6])
+		{
+			rotate([0,0,360/6*i])
+			translate([effectorRadius-METRIC_NUT_AC_WIDTHS[metricScrewSize],0,0])
+			rotate([90,0,30+(i%2)*120])
+			union()
+			{
+				nutHole(3);
+
+				rotate([0,180,0])
+				boltHole(3, length=20);
+			}
+		}
+	}
+
+
+}
+
+StockEffector();
+% ParametricEffector();

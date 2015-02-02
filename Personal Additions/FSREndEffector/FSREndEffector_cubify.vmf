@@ -1,0 +1,21 @@
+Part Extents:
+40.85 <= x <= 98.85
+44.85 <= y <= 94.85
+0.0001 <= z <= 15.0011
+14184 output triangles
+14184 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+2 distinct shells:
+Shell volume: 10158.1	(num triangles: 8992)
+40.85 <= x <= 98.85
+44.85 <= y <= 62.85
+0.0001 <= z <= 15.0011
+Shell volume: 7285.87	(num triangles: 5192)
+40.85 <= x <= 98.85
+76.85 <= y <= 94.85
+0.0001 <= z <= 10.5001
+C:\Users\edparker\Sync\Personal\Projects\Git\KosselPro\Personal Additions\FSREndEffector\FSREndEffector_cubify.stl was GOOD
