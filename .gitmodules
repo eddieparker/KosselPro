@@ -4,3 +4,6 @@
 [submodule "submodules/Marlin"]
 	path = submodules/Marlin
 	url = https://github.com/eddieparker/Marlin.git
+[submodule "submodules/OpenSCADModules"]
+	path = submodules/OpenSCADModules
+	url = https://github.com/eddieparker/OpenSCADModules.git
